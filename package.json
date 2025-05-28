@@ -2,12 +2,16 @@
     "name": "kanban-todo-board",
     "version": "1.0.0",
     "private": true,
+    "homepage": "https://akshaybhardwajgit.github.io/kanban-todo-board",
     "dependencies": {
         "react": "^18.2.0",
         "react-beautiful-dnd": "^13.1.1",
         "react-dom": "^18.2.0",
         "react-draggable": "^4.4.6",
         "react-scripts": "5.0.1"
+    },
+    "devDependencies": {
+        "gh-pages": "^6.3.0"
     },
     "scripts": {
         "start": "react-scripts start",
